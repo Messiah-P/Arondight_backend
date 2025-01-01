@@ -2,8 +2,7 @@
 
 # Arondight
 
-<img height="127" src="public/Arondight.png" width="127" alt="Arondight"/>
-
+<img src="public/Arondight.png" height="180" width="180" alt="Arondight">
 
 </div>
 
