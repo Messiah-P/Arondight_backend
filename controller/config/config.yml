@@ -1,0 +1,7 @@
+# 数据库配置
+database:
+  host: 127.0.0.1
+  user: arondight
+  password: password
+  database_name: arondight
+  port: 3306

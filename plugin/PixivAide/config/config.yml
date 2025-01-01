@@ -1,0 +1,7 @@
+# 数据库配置
+database:
+  host: 127.0.0.1
+  user: pixivaide
+  password: password
+  database_name: pixivaide
+  port: 3306
